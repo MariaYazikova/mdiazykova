@@ -1,1 +1,1 @@
-The first laboratory at the university. First course. Introduction to github
+The first laboratory at the university. First year university. Introduction to github
